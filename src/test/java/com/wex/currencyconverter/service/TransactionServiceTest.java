@@ -25,7 +25,6 @@ import java.util.List;
 
 @ExtendWith(MockitoExtension.class)
 public class TransactionServiceTest {
-
     @Mock
     private TransactionRepository transactionRepository;
 

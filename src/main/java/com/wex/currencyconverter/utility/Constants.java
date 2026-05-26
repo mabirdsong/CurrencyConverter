@@ -38,6 +38,3 @@ public class Constants {
     public static final String RECORD_DATE = "record_date";
 
 }
-
-
-

@@ -10,5 +10,4 @@ class CurrencyconverterApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

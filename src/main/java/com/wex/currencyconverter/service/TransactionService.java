@@ -36,7 +36,6 @@ public class TransactionService implements ITransactionService {
     private final CurrencyRateCacheService currencyRateCacheService;
     private final MessageSource messageSource;
 
-
     /**
      * Adds a transaction to the database.
      * @param transactionRequestDTO Object containing the data need to create a transaction in the database.
